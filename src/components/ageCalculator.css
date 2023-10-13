@@ -1,0 +1,17 @@
+button{
+    background-color: #007dfa;
+    color: white;
+    margin-top: 2%;
+    width: 150px;
+    padding: 15px 12px 15px 12px;
+    border: 1px solid transparent;
+    border-radius: 10px;
+}
+
+input{
+    width: 250px;
+    height: 30px;
+    border: 1px solid #dcdcdc;
+    padding-left: 10px;
+    padding-right: 10px;
+}
